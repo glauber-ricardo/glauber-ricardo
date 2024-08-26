@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="200" src="https://usagif.com/wp-content/uploads/gif/outerspace-56.gif"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=glauber-ricardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=glauber-ricardo&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="145" alt="streak graph"  />
