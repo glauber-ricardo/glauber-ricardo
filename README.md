@@ -15,8 +15,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=glauber-ricardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="145" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glauber-ricardo&radius=16&theme=nord&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=glauber-ricardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glauber-ricardo&radius=10&theme=nord&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
