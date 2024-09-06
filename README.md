@@ -1,4 +1,4 @@
-<h2 align="left">I'm Gláuber Ricardo👋</h2>
+<h2 align="left">Oi! Me chamo Gláuber!👋</h2>
 
 ###
 
@@ -7,6 +7,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://camo.githubusercontent.com/33c943e22243ea22b58ddd612368435f4b48d762351d859f54ba70de4a796303/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966"  />
 
 ###
 
@@ -20,9 +24,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/glauber-ricardo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
 ###
