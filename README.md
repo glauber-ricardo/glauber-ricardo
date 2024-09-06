@@ -16,14 +16,14 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=glauber-ricardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glauber-ricardo&radius=10&theme=nord&area=true&order=5&hide_border=false&hide_title=false" height="211" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glauber-ricardo&radius=9&theme=nord&area=true&order=5&hide_border=false&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/glauber-ricardo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href="www.linkedin.com/in/glauber-ricardo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
