@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="265" src="https://camo.githubusercontent.com/33c943e22243ea22b58ddd612368435f4b48d762351d859f54ba70de4a796303/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" alt="Coding animation" />
+<img align="right" height="200" src="https://camo.githubusercontent.com/33c943e22243ea22b58ddd612368435f4b48d762351d859f54ba70de4a796303/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" alt="Coding GIF" />
 
 ###
 
@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glauber-ricardo&radius=15&theme=react&area=true&order=5" height="250" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glauber-ricardo&radius=15&theme=react&area=true&order=5" height="220" alt="GitHub activity graph" />
 </div>
 
 ###
