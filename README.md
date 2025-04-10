@@ -20,14 +20,14 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=glauber-ricardo&radius=10&theme=react&area=true&order=5&hide_border=false" height="214" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/glauber-ricardo" target="_blank">
+  <a href="https://www.linkedin.com/in/glauber-ricardo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
