@@ -15,7 +15,6 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=glauber-ricardo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=glauber-ricardo&radius=10&theme=react&area=true&order=5&hide_border=false" height="214" alt="activity-graph graph"  />
 </div>
 
@@ -26,13 +25,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glauber-ricardo/glauber-ricardo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glauber-ricardo/glauber-ricardo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/glauber-ricardo/glauber-ricardo/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
