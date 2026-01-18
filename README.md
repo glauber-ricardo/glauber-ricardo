@@ -14,7 +14,9 @@
 
 ###
 
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9wc3N2anVxNDcwM3h4NmwwaTY4NnhmdXhzNW9jM2RqNHU5N3RyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<div align="left">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9wc3N2anVxNDcwM3h4NmwwaTY4NnhmdXhzNW9jM2RqNHU5N3RyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
 
 ###
 
@@ -23,3 +25,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
